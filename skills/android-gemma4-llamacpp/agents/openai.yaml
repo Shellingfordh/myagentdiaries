@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Gemma4 CLI"
+  short_description: "Deploy llama.cpp+Gemma GGUF over adb."
+  default_prompt: "Deploy Gemma-4-E2B (GGUF) to an Android device and run it via adb CLI."
